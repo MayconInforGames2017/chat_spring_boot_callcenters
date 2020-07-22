@@ -16,6 +16,4 @@ Bibliotecas tecnicas utilizadas:
 		return chatMessage;
 	}
 
-```
 
-![Dashboard](https://imgur.com/a/tWBkEcv "Dashboard")
